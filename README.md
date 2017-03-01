@@ -15,6 +15,8 @@ Make use of `./commit.sh` when committing your changes.
 Only pull requests that use `commit.sh` will be accepted.
 ### Pull Requests
 All pull requests must use the message auto-generated from your commit messages.
+### Branching
+All branches must be created using `./branch.sh`
 ## Examples
 Jet meme can't fuel melt beams  
 Jet meme can't melt beams fuel  
