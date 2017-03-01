@@ -25,3 +25,6 @@ def jet_beams():
 # A helpful alias
 def createCommitMessage():
     return jet_beams()
+
+if __name__ == "__main__":
+    beam_memes()
