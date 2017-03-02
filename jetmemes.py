@@ -25,12 +25,5 @@ def meme_beams():
     return jet_beams().replace(" ","").replace("'","")
 
 
-# Helpful aliases
-def createCommitMessage():
-    return jet_beams()
-
-def createBranchName():
-    return meme_beams()
-
 if __name__ == "__main__":
     beam_memes()
