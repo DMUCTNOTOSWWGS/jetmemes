@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-from jetmemes import createCommitMessage
+from jetmemes import jet_beams
 
-print(createCommitMessage())
+print(jet_beams())

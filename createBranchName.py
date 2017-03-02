@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-from jetmemes import createBranchName
+from jetmemes import meme_beams
 
-print(createBranchName())
+print(meme_beams())
